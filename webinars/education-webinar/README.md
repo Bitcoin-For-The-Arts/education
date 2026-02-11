@@ -1,4 +1,4 @@
-# Bitcoin For The Arts Education Webinar
+# Bitcoin For The Artists Education Webinar
 
 **Date:** 2026-02-08
 
