@@ -9,6 +9,7 @@ Public education resources and webinar materials for Bitcoin For The Arts, Inc.
 | Date       | Title                                  | Link                              |
 | ---------- | -------------------------------------- | --------------------------------- |
 | 2026-02-08 | Bitcoin For The Arts Education Webinar  | [Details](webinars/2026-02-08/)   |
+| 2026-02-11 | Bitcoin in Practice for Artists         | [Details](webinars/2026-02-11/)   |
 
 ## Repository structure
 - webinars/YYYY-MM-DD/
