@@ -1,9 +1,19 @@
 # Bitcoin For The Arts Education Webinar
 
-Date: 2026-02-08
+**Date:** 2026-02-08
+
+## Overview
+
+This webinar is part of the Bitcoin For The Arts education series. For the full
+webinar details, registration, and upcoming sessions, visit the official
+education webinar page:
+
+**Webinar Page:** <https://www.bitcoinforthearts.org/education/webinar>
 
 ## Contents
+
 - Education webinar PDF (external link): <https://drive.google.com/file/d/1A4gJjhNLXRXnwdjtPpL8sX1Yf-zQmtUu/view?usp=drive_link>
 
 ## License
-Licensed under CC BY 4.0 (see LICENSE at the repo root).   
+
+Licensed under CC BY 4.0 (see LICENSE at the repo root).
