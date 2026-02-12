@@ -18,6 +18,6 @@ webinar details and upcoming sessions, visit the official education webinar page
 
 - Google Slides presentation (external link): <https://docs.google.com/presentation/d/1kA_4H_h1C-MiTo0-lansl7D2W1fUCs7ekAiiTjE5JQU/edit?usp=drive_link>
 
-- ## License
+## License
 
 Licensed under CC BY 4.0 (see LICENSE at the repo root).
