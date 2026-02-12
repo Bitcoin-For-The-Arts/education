@@ -12,6 +12,7 @@ Public education resources and webinar materials for Bitcoin For The Arts, Inc.
 | Bitcoin For Artists Education Webinar | 2026-02-08 | [Details](webinars/education-webinar/)                |
 | Bitcoin in Practice for Artists       | 2026-02-11 | [Details](webinars/bitcoin-in-practice-for-artists/) |
 | Protecting Your Bitcoin               | 2026-02-12 | [Details](webinars/protecting-your-bitcoin/)         |
+| Sound Money, Better Art              | 2026-02-12 | [Details](webinars/sound-money-better-art/)          |
 
 ## Repository structure
 - webinars/\<webinar-name\>/
