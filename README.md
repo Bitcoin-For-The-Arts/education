@@ -8,9 +8,10 @@ Public education resources and webinar materials for Bitcoin For The Arts, Inc.
 
 | Title                                 | Date       | Link                                                 |
 | ------------------------------------- | ---------- | ---------------------------------------------------- |
+| What is Money                         | 2026-02-12 | [Details](webinars/what-is-money/)                   |
 | Bitcoin For Artists Education Webinar | 2026-02-08 | [Details](webinars/education-webinar/)                |
 | Bitcoin in Practice for Artists       | 2026-02-11 | [Details](webinars/bitcoin-in-practice-for-artists/) |
-| What is Money                         | 2026-02-12 | [Details](webinars/what-is-money/)                   |
+| Protecting Your Bitcoin               | 2026-02-12 | [Details](webinars/protecting-your-bitcoin/)         |
 
 ## Repository structure
 - webinars/\<webinar-name\>/
