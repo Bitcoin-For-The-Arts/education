@@ -16,7 +16,7 @@ webinar details and upcoming sessions, visit the official education webinar page
 
 ## Contents
 
-- Webinar materials (see webinar page for the latest links)
+- Google Slides presentation (external link): <https://docs.google.com/presentation/d/1nfV8JfONmbHYRAw7Few7mPdMacszO3emAH-t8dtTQos/edit?usp=drive_link>
 
 ## License
 
