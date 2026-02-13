@@ -6,13 +6,16 @@ Public education resources and webinar materials for Bitcoin For The Arts, Inc.
 
 ## Webinars
 
-| Title                                 | Date       | Link                                                 |
-| ------------------------------------- | ---------- | ---------------------------------------------------- |
-| What is Money                         | 2026-02-12 | [Details](webinars/what-is-money/)                   |
-| Bitcoin For Artists Education Webinar | 2026-02-08 | [Details](webinars/education-webinar/)                |
-| Bitcoin in Practice for Artists       | 2026-02-11 | [Details](webinars/bitcoin-in-practice-for-artists/) |
-| Protecting Your Bitcoin               | 2026-02-12 | [Details](webinars/protecting-your-bitcoin/)         |
-| Sound Money, Better Art              | 2026-02-12 | [Details](webinars/sound-money-better-art/)          |
+| Title                                                    | Date       | Link                                                                            |
+| -------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------- |
+| What is Money                                            | 2026-02-12 | [Details](webinars/what-is-money/)                                              |
+| Bitcoin For Artists Education Webinar                    | 2026-02-08 | [Details](webinars/education-webinar/)                                           |
+| Bitcoin in Practice for Artists                          | 2026-02-11 | [Details](webinars/bitcoin-in-practice-for-artists/)                            |
+| Protecting Your Bitcoin                                  | 2026-02-12 | [Details](webinars/protecting-your-bitcoin/)                                    |
+| Sound Money, Better Art                                  | 2026-02-12 | [Details](webinars/sound-money-better-art/)                                     |
+| Bitcoin & the Creator Economy: The Value-for-Value Model | 2026-02-12 | [Details](webinars/bitcoin-and-the-creator-economy-value-for-value-model/)      |
+| Bitcoin & the Creator Economy: Tools, Platforms & Payments | 2026-02-12 | [Details](webinars/bitcoin-and-the-creator-economy-tools-platforms-payments/)  |
+| Bitcoin & the Creator Economy: Building Your Audience    | 2026-02-12 | [Details](webinars/bitcoin-and-the-creator-economy-building-your-audience/)     |
 
 ## Repository structure
 - webinars/\<webinar-name\>/
